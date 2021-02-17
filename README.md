@@ -1,2 +1,2 @@
 # GitTestRepo
-Test README file. Deleted new line.
+Test README file. Rewritten new line.
